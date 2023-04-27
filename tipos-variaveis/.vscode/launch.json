@@ -1,0 +1,84 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Conta",
+            "request": "launch",
+            "mainClass": "fabio.henrique.abril.Conta",
+            "projectName": "tipos-variaveis_c2789956"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "fabio.henrique.abril.ContaTerminal",
+            "projectName": "tipos-variaveis_c2789956"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "fabio.henrique.abril.AboutMe",
+            "projectName": "tipos-variaveis_c2789956"
+        },
+        {
+            "type": "java",
+            "name": "Comnetarios",
+            "request": "launch",
+            "mainClass": "fabio.henrique.abril.Comnetarios",
+            "projectName": "tipos-variaveis_c2789956"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "fabio.henrique.abril.MinhaClasse",
+            "projectName": "tipos-variaveis_c2789956"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "fabio.henrique.abril.Operadores",
+            "projectName": "tipos-variaveis_c2789956"
+        },
+        {
+            "type": "java",
+            "name": "Operadores1",
+            "request": "launch",
+            "mainClass": "fabio.henrique.abril.Operadores1",
+            "projectName": "tipos-variaveis_c2789956"
+        },
+        {
+            "type": "java",
+            "name": "Operadores2",
+            "request": "launch",
+            "mainClass": "fabio.henrique.abril.Operadores2",
+            "projectName": "tipos-variaveis_c2789956"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "fabio.henrique.abril.TiposVariaveis",
+            "projectName": "tipos-variaveis_c2789956"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "fabio.henrique.abril.Usuario",
+            "projectName": "tipos-variaveis_c2789956"
+        }
+    ]
+}
